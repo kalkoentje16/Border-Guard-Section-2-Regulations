@@ -44,7 +44,6 @@ color: "#8c1515" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
 
 # If you add tags to pages, you can link them to some external search
 # If you want to disable this, comment the URL.
@@ -65,6 +64,7 @@ fixedNav: 'false' # true or false
 
 permalink: /:year/:title/
 markdown: kramdown
+theme: jekyll-theme-architect
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
