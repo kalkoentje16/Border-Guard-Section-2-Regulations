@@ -1,22 +1,29 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-
-  <body dir="ltr" data-md-color-primary="{{ site.themeColor }}" data-md-color-accent="{{ site.accentColor }}">
-    {% include navigation.html %}
-
-    <div class="md-container">         
-        <main class="md-main">
-            <div class="md-main__inner md-grid" data-md-component="container">
-            {% include sidebar.html %}
-                <div id="md-container-pancakes">
-                {{ content }}
-                </div>
-            </div>
-        </main>
-    </div>
-    {% include footer.html %}
-    {% include tags.html %}
-    {% include google-analytics.html %}
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.excerpt %}
+      <meta name="description" content="{{ page.excerpt }}">
+    {% endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          {% for item in site.data.navigation %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </footer>
   </body>
 </html>
