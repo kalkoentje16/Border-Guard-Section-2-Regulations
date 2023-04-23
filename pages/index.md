@@ -6,7 +6,7 @@ permalink: /
 
 # Border Guard Section 2 Regulations
 
-### **General Regulations**
+## **General Regulations**
 
 - Failure to follow the rules outlined in this document will result in disciplinary actions. As a representative of our department we cannot tolerate any bad behaviour.
 
@@ -22,7 +22,7 @@ permalink: /
 
 - It is important that you avoid engaging in any illegal activities, as such actions not only violate the law but also compromise your role as a trusted member of the department. Your behaviour and actions reflect the values and principles of our department.
 
-### **Border Regulations**
+## **Border Regulations**
 
 - You must remain in the designated area assigned to you by a higher-ranking officer.
 
@@ -46,7 +46,7 @@ permalink: /
 
 - Authorised administration vehicles are permitted to cross the border without a legal passport and during closed times. This exemption is granted to ensure the smooth functioning of administrative activities and must be exercised judiciously.
 
-### **Patrol Regulations**
+## **Patrol Regulations**
 
 - Border patrolling is only permitted when there is at least one Jandarma or Section 2 guard present alongside you. In the absence of another guard, it is strictly prohibited to conduct border patrols.
 
