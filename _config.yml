@@ -64,7 +64,6 @@ fixedNav: 'false' # true or false
 
 permalink: /:year/:title/
 markdown: kramdown
-theme: jekyll-theme-architect
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
