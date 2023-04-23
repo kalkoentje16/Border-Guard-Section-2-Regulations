@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Border Guard Section 2 Regulations
 permalink: /
 ---
