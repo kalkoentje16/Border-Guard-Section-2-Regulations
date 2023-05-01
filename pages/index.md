@@ -10,6 +10,15 @@ permalink: /
 
 - Failure to follow the rules outlined in this document will result in disciplinary actions. As a representative of our department we cannot tolerate any bad behaviour.
 
+- You are not allowed to enter the citizen team when the teams are uneven. The table below will show you the ratio.
+
+|  **Citizen team**  | **Department team**  |
+|---|---|
+| 1-10 players | 3 players  |
+| 11-20 players | 5 players |
+| 21+ players | 7 players |
+
+
 - You must show respect towards staff and civilians which includes avoiding discriminatory or harassing behaviour, using appropriate language, and refraining from aggressive or violent behaviour.
 
 - You must maintain a professional attitude at all times, which includes dressing appropriately, having good manners and communicating clearly and effectively.
